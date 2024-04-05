@@ -26,4 +26,5 @@ Sophia Neves (sophia.balboni@sptech.school)
 Caio Viveiros (caio.soares@sptech.school)
 Sergio Emiliano (sergio.emilianofo@sptech.school)
 Edson Gabriel(edson.cruz@sptech.school)
+Henrique Olivier (henrique.rosa@sptech.school)
 # GuardTech
