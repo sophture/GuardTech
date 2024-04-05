@@ -25,5 +25,5 @@ Este projeto foi desenvolvido pela equipe:
 Sophia Neves (sophia.balboni@sptech.school)
 Caio Viveiros (caio.soares@sptech.school)
 Sergio Emiliano (sergio.emilianofo@sptech.school)
-
+Edson Gabriel(edson.cruz@sptech.school)
 # GuardTech
